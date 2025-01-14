@@ -1,5 +1,8 @@
 <h1>Hi 👋, I'm Ömer Yalçınkaya</h1>
 <p>A passionate backend developer from </p>
+<p>👨‍💻 Software Developer | Lifelong Learner | Problem Solver</p>
+<p>🌐 Building innovative solutions in C# and .NET Core</p>
+<p>✨ Always learning, always improving</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
