@@ -1,5 +1,4 @@
 <h1>Hi 👋, I'm Ömer Yalçınkaya</h1>
-<p>A passionate backend developer from </p>
 <p>👨‍💻 Software Developer | Lifelong Learner | Problem Solver</p>
 <p>🌐 Building innovative solutions in C# and .NET Core</p>
 <p>✨ Always learning, always improving</p>
